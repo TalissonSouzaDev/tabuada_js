@@ -33,6 +33,7 @@ async function Tabuada(tamanhotab,numerocalc,operacao)
         default:
             alert("Não consegui indentifica seu pedido")
     }
+}
 
     function WriteLineOption(tamanhotab,numerocalc,operacao)
     {
@@ -63,9 +64,3 @@ async function Tabuada(tamanhotab,numerocalc,operacao)
 
         }
     }
-
-    
-    
-
-
-}
